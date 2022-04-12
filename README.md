@@ -201,6 +201,7 @@ For the final sprint, we will use the Matplotlib package in Python to create vis
 ## 2.1 Collect Initial Data
 
 ### Initial Data Collection Report
+test
 
 ### Initial Data Cleaning Report
 Since the primary data we collected are tweets from Twitter, so the data cleaning consists mainly of text cleaning. And we used Regular Expression to accomplish that.
